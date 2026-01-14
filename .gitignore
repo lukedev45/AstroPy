@@ -11,3 +11,6 @@ wheels/
 
 # Game state log form logger.py
 game_state.jsonl
+
+# Game events log from logger.py
+game_events.jsonl
